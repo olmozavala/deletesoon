@@ -56,6 +56,9 @@ def postgresqlExamle():
         print("   ",row[0]," - ", row[1])
 
 
+def newfun(a,b):
+    return a+b
+
 if __name__ == "__main__":
     print("Yeah babe\n")
     postgresqlExamle();
