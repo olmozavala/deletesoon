@@ -58,6 +58,9 @@ def postgresqlExamle():
 def newfun(a,b):
     return a-b
 
+def newfun(a,b):
+    return a+b
+
 if __name__ == "__main__":
     print("Yeah babe\n")
     postgresqlExamle();
